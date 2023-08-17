@@ -3,3 +3,5 @@ create file3.txt on branch master
 change file3.txt on branch feature/3
 
 change file3.txt on branch versi-C
+
+this is rebase file to branch feature/3
