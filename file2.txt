@@ -1,3 +1,7 @@
 create file2.txt on branch master
 
+<<<<<<< HEAD
 version : 1.0.1
+=======
+add versi 1
+>>>>>>> feature/2
